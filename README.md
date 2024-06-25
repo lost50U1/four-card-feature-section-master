@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/recipe-menu-q2XjK1FBx9)
-- Live Site URL: [Add live site URL here](https://lost50u1.github.io/recipe-page-main/)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/four-card-feature-section-with-tailwind-css-sY50KQqAMO)
+- Live Site URL: [Add live site URL here](https://lost50u1.github.io/four-card-feature-section-master/)
 
 ## My process
 
